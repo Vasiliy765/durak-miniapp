@@ -1,0 +1,1 @@
+window.MANUS_PUBLIC_CONFIG = {};
